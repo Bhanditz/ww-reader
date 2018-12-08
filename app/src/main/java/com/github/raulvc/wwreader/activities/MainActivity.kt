@@ -1,4 +1,4 @@
-package com.github.raulvc.wwreader
+package com.github.raulvc.wwreader.activities
 
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentTransaction
 import android.support.v7.app.AppCompatActivity
+import com.github.raulvc.wwreader.R
 import com.github.raulvc.wwreader.dashboard.HomeFragment
 import com.github.raulvc.wwreader.dashboard.NovelsFragment
 import com.github.raulvc.wwreader.dashboard.PreferencesFragment

@@ -1,9 +1,10 @@
-package com.github.raulvc.wwreader
+package com.github.raulvc.wwreader.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.view.View
+import com.github.raulvc.wwreader.R
 import kotlinx.android.synthetic.main.activity_reading.*
 
 /**
